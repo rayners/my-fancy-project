@@ -1,3 +1,3 @@
 # my-fancy-project
 
-Here is another description
+Here is one more description
